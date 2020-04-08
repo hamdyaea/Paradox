@@ -1,8 +1,6 @@
 https://fr.wikipedia.org/wiki/Compression_de_donn%C3%A9es_universelle     
 
 Compression de données universelle
-Sauter à la navigation
-Sauter à la recherche
 
 Un compresseur sans perte universel ne peut pas exister. Plus précisément, pour tout compresseur sans perte, on est certain que :
 
