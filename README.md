@@ -6,7 +6,7 @@ Un compresseur sans perte universel ne peut pas exister. Plus précisément, pou
 
 il est impossible de compresser strictement tous les mots ;
 s'il existe un mot qui est strictement compressé alors il existe un autre mot dont la version compressée est strictement plus grande que le mot lui-même ;
-           pour n'importe quel mot de départ auquel on applique de manière répétée le compresseur, on est nécessairement dans l'iiun des cas de figure suivants :
+pour n'importe quel mot de départ auquel on applique de manière répétée le compresseur, on est nécessairement dans l'iiun des cas de figure suivants :
                     soit une suite de mots se répète infiniment,
 
                             soit les mots successifs obtenus atteignent des tailles arbitrairement grandes.
