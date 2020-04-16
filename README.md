@@ -7,9 +7,7 @@ Un compresseur sans perte universel ne peut pas exister. Plus précisément, pou
 il est impossible de compresser strictement tous les mots ;
 s'il existe un mot qui est strictement compressé alors il existe un autre mot dont la version compressée est strictement plus grande que le mot lui-même ;
 pour n'importe quel mot de départ auquel on applique de manière répétée le compresseur, on est nécessairement dans l'iiun des cas de figure suivants :
-soit une suite de mots se répète infiniment,
-
-                            soit les mots successifs obtenus atteignent des tailles arbitrairement grandes.
+soit une suite de mots se répète infiniment, soit les mots successifs obtenus atteignent des tailles arbitrairement grandes.
 
                             Ces propriétés sont démontrées ci-après. Cependant, elles n'enlèvent rien à l'intérêt des compresseurs sans perte. En effet, dans la pratique, les mots, messages ou fichiers que l'on souhaite compresser ne sont pas quelconques et choisis aléatoirement parmi tous les mots, messages ou fichiers possibles. Les compresseurs se servent de leurs particularités. Des compresseurs seront alors très bons avec certains types de données, et très mauvais avec d'autres.
 
