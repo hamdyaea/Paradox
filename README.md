@@ -9,7 +9,7 @@ s'il existe un mot qui est strictement compressé alors il existe un autre mot d
 pour n'importe quel mot de départ auquel on applique de manière répétée le compresseur, on est nécessairement dans l'iiun des cas de figure suivants :
 soit une suite de mots se répète infiniment, soit les mots successifs obtenus atteignent des tailles arbitrairement grandes.
 
-                            Ces propriétés sont démontrées ci-après. Cependant, elles n'enlèvent rien à l'intérêt des compresseurs sans perte. En effet, dans la pratique, les mots, messages ou fichiers que l'on souhaite compresser ne sont pas quelconques et choisis aléatoirement parmi tous les mots, messages ou fichiers possibles. Les compresseurs se servent de leurs particularités. Des compresseurs seront alors très bons avec certains types de données, et très mauvais avec d'autres.
+Ces propriétés sont démontrées ci-après. Cependant, elles n'enlèvent rien à l'intérêt des compresseurs sans perte. En effet, dans la pratique, les mots, messages ou fichiers que l'on souhaite compresser ne sont pas quelconques et choisis aléatoirement parmi tous les mots, messages ou fichiers possibles. Les compresseurs se servent de leurs particularités. Des compresseurs seront alors très bons avec certains types de données, et très mauvais avec d'autres.
 
                             Ainsi pour ces types de compresseurs spécialisés, l'information fournie par le contexte est utilisée pour la compression (voir théorie de l'information).
                             Sommaire
