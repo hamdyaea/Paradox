@@ -11,7 +11,7 @@ soit une suite de mots se répète infiniment, soit les mots successifs obtenus 
 
 Ces propriétés sont démontrées ci-après. Cependant, elles n'enlèvent rien à l'intérêt des compresseurs sans perte. En effet, dans la pratique, les mots, messages ou fichiers que l'on souhaite compresser ne sont pas quelconques et choisis aléatoirement parmi tous les mots, messages ou fichiers possibles. Les compresseurs se servent de leurs particularités. Des compresseurs seront alors très bons avec certains types de données, et très mauvais avec d'autres.
 
-                            Ainsi pour ces types de compresseurs spécialisés, l'information fournie par le contexte est utilisée pour la compression (voir théorie de l'information).
+Ainsi pour ces types de compresseurs spécialisés, l'information fournie par le contexte est utilisée pour la compression (voir théorie de l'information).
                             Sommaire
 
                                 1 Expérimentation
