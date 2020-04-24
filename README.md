@@ -14,8 +14,8 @@ Ces propriétés sont démontrées ci-après. Cependant, elles n'enlèvent rien 
 Ainsi pour ces types de compresseurs spécialisés, l'information fournie par le contexte est utilisée pour la compression (voir théorie de l'information).
                             Sommaire
 
-                                1 Expérimentation
-                                    2 Preuve mathématique
+1 Expérimentation
+2 Preuve mathématique
                                         3 Voir aussi
                                                 3.1 Articles connexes
                                                         3.2 Liens externes
