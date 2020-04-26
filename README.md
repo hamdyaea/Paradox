@@ -18,7 +18,7 @@ Sommaire
 1 Expérimentation
 2 Preuve mathématique
 3 Voir aussi
-                                                3.1 Articles connexes
+3.1 Articles connexes
                                                         3.2 Liens externes
 
                                                         Expérimentation
