@@ -21,7 +21,7 @@ Sommaire
 3.1 Articles connexes
 3.2 Liens externes
 
-                                                        Expérimentation
+Expérimentation
 
                                                         On peut aisément vérifier expérimentalement cette impossibilité. Voici un script shell qui crée un fichier comportant 100 fois la ligne "blabla" puis qui effectue 100 compressions successives de ce fichier à l'aide du compresseur gzip et enfin affiche les tailles successives obtenues :
 
