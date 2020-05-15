@@ -25,7 +25,7 @@ Expérimentation
 
 On peut aisément vérifier expérimentalement cette impossibilité. Voici un script shell qui crée un fichier comportant 100 fois la ligne "blabla" puis qui effectue 100 compressions successives de ce fichier à l'aide du compresseur gzip et enfin affiche les tailles successives obtenues :
 
-                                                        for i in `seq 1 100`; do echo "blabla" >> toto001; done
+for i in `seq 1 100`; do echo "blabla" >> toto001; done
                                                         for i in `seq 1 100`; do gzip -c "toto`printf "%03d" $i`" > "toto`printf "%03d" $((i+1))`"; done
                                                         wc -c toto*
 
