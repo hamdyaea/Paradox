@@ -26,7 +26,7 @@ Expérimentation
 On peut aisément vérifier expérimentalement cette impossibilité. Voici un script shell qui crée un fichier comportant 100 fois la ligne "blabla" puis qui effectue 100 compressions successives de ce fichier à l'aide du compresseur gzip et enfin affiche les tailles successives obtenues :
 
 for i in `seq 1 100`; do echo "blabla" >> toto001; done
-                                                        for i in `seq 1 100`; do gzip -c "toto`printf "%03d" $i`" > "toto`printf "%03d" $((i+1))`"; done
+for i in `seq 1 100`; do gzip -c "toto`printf "%03d" $i`" > "toto`printf "%03d" $((i+1))`"; done
                                                         wc -c toto*
 
                                                         On vérifie souvent en pratique qu'un fichier qui est déjà le résultat d'une compression se compresse mal, voire grossit par application du compresseur. D'ailleurs, gzip refuse par défaut de compresser les fichiers comportant l'extension ".gz" qui est le signe d'une précédente application de ce compresseur.
