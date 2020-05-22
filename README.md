@@ -30,7 +30,8 @@ for i in `seq 1 100`; do gzip -c "toto`printf "%03d" $i`" > "toto`printf "%03d" 
 wc -c toto*
 
 On vérifie souvent en pratique qu'un fichier qui est déjà le résultat d'une compression se compresse mal, voire grossit par application du compresseur. D'ailleurs, gzip refuse par défaut de compresser les fichiers comportant l'extension ".gz" qui est le signe d'une précédente application de ce compresseur.
-                                                        Preuve mathématique
+
+Preuve mathématique
 
                                                         Un compresseur sans perte peut être vu comme une injection des mots dans les mots, c'est-à-dire une fonction C {\displaystyle C} C telle que
 
