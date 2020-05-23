@@ -33,7 +33,7 @@ On vérifie souvent en pratique qu'un fichier qui est déjà le résultat d'une 
 
 Preuve mathématique
 
-                                                        Un compresseur sans perte peut être vu comme une injection des mots dans les mots, c'est-à-dire une fonction C {\displaystyle C} C telle que
+Un compresseur sans perte peut être vu comme une injection des mots dans les mots, c'est-à-dire une fonction C {\displaystyle C} C telle que
 
                                                             C ( u  ) = C ( v  ) {\displaystyle C(u)=C(v)} {\displaystyle C(u)=C(v)} implique u = v {\displaystyle u=v} {\displaystyle u=v}.
 
