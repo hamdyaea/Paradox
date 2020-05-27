@@ -37,7 +37,7 @@ Un compresseur sans perte peut être vu comme une injection des mots dans les mo
 
 C ( u  ) = C ( v  ) {\displaystyle C(u)=C(v)} {\displaystyle C(u)=C(v)} implique u = v {\displaystyle u=v} {\displaystyle u=v}.
 
-                                                            On vérifie alors aisément que, pour tout mot u {\displaystyle u} u, l'un des deux cas suivants est vérifié :
+On vérifie alors aisément que, pour tout mot u {\displaystyle u} u, l'un des deux cas suivants est vérifié :
 
                                                                 la suite ( C n ( u  )  ) n {\displaystyle (C^{n}(u))_{n}} {\displaystyle (C^{n}(u))_{n}} est périodique,
                                                                     la suite ( C n ( u  )  ) n {\displaystyle (C^{n}(u))_{n}} {\displaystyle (C^{n}(u))_{n}} ne contient jamais deux fois le même mot et donc pour tout entier N ∈ N {\displaystyle N\in \mathbb {N} } {\displaystyle N\in \mathbb {N} } il existe un entier k {\displaystyle k} k tel que le mot C k ( u  ) {\displaystyle C^{k}(u)} {\displaystyle C^{k}(u)} est de taille supérieure à N {\displaystyle N} N.
