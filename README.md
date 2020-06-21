@@ -39,8 +39,8 @@ C ( u  ) = C ( v  ) {\displaystyle C(u)=C(v)} {\displaystyle C(u)=C(v)} implique
 
 On vérifie alors aisément que, pour tout mot u {\displaystyle u} u, l'un des deux cas suivants est vérifié :
 
-la suite ( C n ( u  )  ) n {\displaystyle (C^{n}(u))_{n}} {\displaystyle (C^{n}(u))_{n}} est périodique,
-                                                                    la suite ( C n ( u  )  ) n {\displaystyle (C^{n}(u))_{n}} {\displaystyle (C^{n}(u))_{n}} ne contient jamais deux fois le même mot et donc pour tout entier N ∈ N {\displaystyle N\in \mathbb {N} } {\displaystyle N\in \mathbb {N} } il existe un entier k {\displaystyle k} k tel que le mot C k ( u  ) {\displaystyle C^{k}(u)} {\displaystyle C^{k}(u)} est de taille supérieure à N {\displaystyle N} N.
+laa suite ( C n ( u  )  ) n {\displaystyle (C^{n}(u))_{n}} {\displaystyle (C^{n}(u))_{n}} est périodique,
+a suite ( C n ( u  )  ) n {\displaystyle (C^{n}(u))_{n}} {\displaystyle (C^{n}(u))_{n}} ne contient jamais deux fois le même mot et donc pour tout entier N ∈ N {\displaystyle N\in \mathbb {N} } {\displaystyle N\in \mathbb {N} } il existe un entier k {\displaystyle k} k tel que le mot C k ( u  ) {\displaystyle C^{k}(u)} {\displaystyle C^{k}(u)} est de taille supérieure à N {\displaystyle N} N.
 
 Ceci montre la troisième propriété de l'impossibilité énoncée ci-dessus. Les deux premières en découlent car, s'il y a compression stricte, c'est-à-dire s'il existe un mot u {\displaystyle u} u plus grand que sa version compressée C ( u  ) {\displaystyle C(u)} {\displaystyle C(u)}, alors :
 
