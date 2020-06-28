@@ -35,7 +35,7 @@ Preuve mathématique
 
 Un compresseur sans perte peut être vu comme une injection des mots dans les mots, c'est-à-dire une fonction C telle que
 
-C ( u  ) = C ( v  )  implique u = v {\displaystyle u=v} {\displaystyle u=v}.
+C ( u  ) = C ( v  )  implique u = v {\displaystyle u=v}.
 
 On vérifie alors aisément que, pour tout mot u {\displaystyle u} u, l'un des deux cas suivants est vérifié :
 
